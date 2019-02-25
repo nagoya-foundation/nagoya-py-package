@@ -1,0 +1,7 @@
+README.md
+setup.py
+nagoya.egg-info/PKG-INFO
+nagoya.egg-info/SOURCES.txt
+nagoya.egg-info/dependency_links.txt
+nagoya.egg-info/requires.txt
+nagoya.egg-info/top_level.txt

@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: nagoya
+Version: 0.0.1
+Summary: The best python package in the world
+Home-page: https://github.com/nagoya-foundation/nagoya-py-package
+Author: Nagoya Foundation
+Author-email: nagoya@nagoya.com
+License: UNKNOWN
+Description-Content-Type: text/markdown
+Description: # Nagoya Python Package
+        Nagoya repository used in the medium post about publish a package in PyPI.
+        
+        [Link to post!](https://medium.com/nagoya-foundation/uploading-your-own-python-package-to-pypi-python-package-index-6b78e1c9e6d1)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
